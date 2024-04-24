@@ -11,6 +11,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:H3226K45OFKFGJH53575FPSOR6LFJIJP$nome=EP.7 XÓGUN-A SAGA DO JÁPÃO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ZLHQOWYDBJSWX4AKWNRV3XLKHOLSPWK$nome=EP.8 XÓGUN-A SAGA DO JÁPÃO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LKFWLN55VVBEDRUHCG223A72JBTX2HEC$nome=EP.9 XÓGUN-A SAGA DO JÁPÃO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eec212f4ceff195cdd00e27dbfc030d6560428cc$nome=EP.10 XÓGUN-A SAGA DO JÁPÃO</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/oMsQZYbBwbpr3UOU6YXSOkLv6kE.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>Ambientada no Japão de 1600, o Senhor Yoshii Toranaga está lutando pela sua vida à medida que seus inimigos no Conselho dos Regentes se unem contra ele, quando um navio europeu misterioso é encontrado encalhado em um vilarejo de pescadores próximo.</info>
